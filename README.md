@@ -1,6 +1,8 @@
 # Kaggle-Competition---M5-Forcasting
 M5 Forecasting - Accuracy
 
+# Highlight: Used LightGBM in predicting Walmart Sales based on Time Series Data.
+
 Competition Overview:
 How much camping gear will one store sell each month in a year? To the uninitiated, calculating sales at this level may seem as difficult as predicting the weather. Both types of forecasting rely on science and historical data. While a wrong weather forecast may result in you carrying around an umbrella on a sunny day, inaccurate business forecasts could result in actual or opportunity losses. In this competition, in addition to traditional forecasting methods you’re also challenged to use machine learning to improve forecast accuracy.
 
